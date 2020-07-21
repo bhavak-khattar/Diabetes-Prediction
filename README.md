@@ -44,11 +44,11 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── Diabetes-Predicton.ipynb
 ├── Diabetes-Predictor-Deploy.py
 ├── Procfile
+├── README.md
 ├── app.py
 ├── diabetes-prediction.pkl
 ├── kaggle_diabetes.csv
 ├── requirements.txt
-├── README.md
 ```
 
 ## Technologies Used
